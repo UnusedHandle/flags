@@ -1,6 +1,7 @@
 {
     "5333117809": {
-            "useOldVersion": true
+            "useOldVersion": true,
+            "studioOverrideSystemBoolValue": true
         }
     
 }
