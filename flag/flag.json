@@ -1,7 +1,6 @@
 {
     "5333117809": {
-            "useOldVersion": true,
-            "studioOverrideSystemBoolValue": true
+            "ForceSystem": "Legacy"
         }
     
 }
